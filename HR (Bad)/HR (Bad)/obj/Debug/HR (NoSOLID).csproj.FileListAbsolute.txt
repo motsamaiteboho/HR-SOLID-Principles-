@@ -1,0 +1,7 @@
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 1 (Design principles)\HR (NoSOLID)\bin\Debug\HR (NoSOLID).exe.config
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 1 (Design principles)\HR (NoSOLID)\bin\Debug\HR (NoSOLID).exe
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 1 (Design principles)\HR (NoSOLID)\bin\Debug\HR (NoSOLID).pdb
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 1 (Design principles)\HR (NoSOLID)\obj\Debug\HR (NoSOLID).csprojAssemblyReference.cache
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 1 (Design principles)\HR (NoSOLID)\obj\Debug\HR (NoSOLID).csproj.CoreCompileInputs.cache
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 1 (Design principles)\HR (NoSOLID)\obj\Debug\HR (NoSOLID).exe
+D:\DropBox\CSIS\CSIS2664\2020\Projects\Project 1 (Design principles)\HR (NoSOLID)\obj\Debug\HR (NoSOLID).pdb

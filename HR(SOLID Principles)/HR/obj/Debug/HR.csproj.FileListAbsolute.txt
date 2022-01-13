@@ -1,0 +1,14 @@
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR\HR\obj\Debug\HR.csprojAssemblyReference.cache
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR\HR\bin\Debug\HR.exe.config
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR\HR\bin\Debug\HR.exe
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR\HR\bin\Debug\HR.pdb
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR\HR\obj\Debug\HR.exe
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR\HR\obj\Debug\HR.pdb
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR(SOLID Principles)\HR\bin\Debug\HR.exe.config
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR(SOLID Principles)\HR\bin\Debug\HR.exe
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR(SOLID Principles)\HR\bin\Debug\HR.pdb
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR(SOLID Principles)\HR\obj\Debug\HR.csprojAssemblyReference.cache
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR(SOLID Principles)\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR(SOLID Principles)\HR\obj\Debug\HR.exe
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P1\HR(SOLID Principles)\HR\obj\Debug\HR.pdb
